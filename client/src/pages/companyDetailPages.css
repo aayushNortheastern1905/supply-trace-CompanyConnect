@@ -1,0 +1,24 @@
+
+.tab {
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid transparent;
+  }
+  
+  .react-tabs__tab--selected {
+    font-weight: bold;
+    border: 2px solid #000; /* Customize border color as needed */
+  }
+  
+  button:hover {
+    background-color: black;
+  }
+
+  .flex.items-center {
+    display: flex;
+    align-items: center;
+  }
+  
+  .mr-2 {
+    margin-right: 0.5rem;
+  }
