@@ -104,6 +104,12 @@ Swagger UI documentation has been implemented for this project. Here are the ste
 
 2. Access the api docs on http://localhost:5000/apidocs/
 
+## Docker Containerization
+
+1. For starting docker:
+   ```sh
+   docker compose up
+
 
 
 
