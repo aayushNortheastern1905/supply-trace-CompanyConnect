@@ -107,8 +107,10 @@ Swagger UI documentation has been implemented for this project. Here are the ste
 ## Docker Containerization
 
 1. For starting docker:
+   
    ```sh
    docker compose up
+2. Hit the http://localhost:3000/ for accessing the application.
 
 
 
